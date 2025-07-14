@@ -248,7 +248,7 @@ If you want to use `editor.codeActionsOnSave` with `editor.formatOnSave` to auto
 ```json
 "editor.formatOnSave": true,
 "[opentofu][opentofu-vars]": {
-  "editor.defaultFormatter": "opentofu.opentofu",
+  "editor.defaultFormatter": "opentofu.vscode-opentofu",
   "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {
     "source.formatAll.opentofu": true
