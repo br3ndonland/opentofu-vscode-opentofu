@@ -233,7 +233,7 @@ To enable automatic formatting, it is recommended that the following be added to
 
 ```json
 "[opentofu][opentofu-vars]": {
-  "editor.defaultFormatter": "opentofu.opentofu",
+  "editor.defaultFormatter": "opentofu.vscode-opentofu",
   "editor.formatOnSave": true,
   "editor.formatOnSaveMode": "file"
 }
